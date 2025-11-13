@@ -1,0 +1,10 @@
+streamlit==1.28.1
+deepface==0.0.79
+opencv-python==4.8.1.78
+# Pin compatible ML stack for DeepFace
+numpy==1.23.5
+tensorflow==2.12.0
+keras==2.12.0
+
+pandas==2.0.3
+Pillow==10.0.1

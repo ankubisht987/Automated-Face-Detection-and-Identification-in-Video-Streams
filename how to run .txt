@@ -1,0 +1,15 @@
+Steps to run the project:
+
+1.Install all the libraries listed in requirements.txt located in the project folder:
+
+pip install -r requirements.txt
+
+
+2.Run the installation test script:
+
+python test_installation.py
+
+
+3.Once the test is completed successfully, start the application with:
+
+streamlit run app.py
